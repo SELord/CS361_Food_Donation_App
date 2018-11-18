@@ -1,0 +1,23 @@
+{
+  "name": "cs361_project",
+  "version": "1.0.0",
+  "description": "Project for CS361. Food Donation App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Lord",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cryptr": "^4.0.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  }
+}
